@@ -3,7 +3,7 @@ package tvdb_test
 import (
 	"fmt"
 
-	"github.com/nemith/tvdb"
+	"github.com/goraxe/tvdb"
 )
 
 func ExampleSearch() {
